@@ -1,0 +1,29 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T15:02:26Z",
+  "IdClaims": [
+    {
+      "Claim": "t:ictman1076"
+    },
+    {
+      "Claim": "mdon:@ictman@im-in.space"
+    },
+    {
+      "Claim": "yt:@ictman"
+    },
+    {
+      "Claim": "pat:sorcerertech"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "72b750e2e03e0f5c2868a49a",
+    "Timestamp": "2023-04-06T15:05:57Z",
+    "Signature": "77f6d2aaa68be47c155ff9d05bb0547fd676e68de26c829e010447fbebbf4c9c895508d1bf58b5c8c8ed88c2223e569323818936255aa3533b55db365d23ffa1b1756aa7ac302d0fe70114314d00c33f968bcede257ceb92b4dae8b69f2d504fa9673b169a3e087a0c3def3b3860fb71fa09b3b66ee8bf8b023a0facb955a892109433755b49d948f15906d18709181a98f40a20e13945299662c9d6fa42a96363210e7ce32d4e87db091dcce7f37925714f6729a10f4beb18caab7c3746c88314f9e23fd35944e98443c48d83c809b0de448e8032fe9547aeffd89738308abd033f2808250a1acf6619cca419c1bf0ac605cdc58f8575d3c98045369f9025bf"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "3b60137c74eca441973e5e6dde61f3806c590edea09902388fd579f3ecdf5ca1",
+  "ContentToHash": "v1|mdon:@ictman@im-in.space,pat:sorcerertech,t:ictman1076,yt:@ictman|2023-04-06T15:02:26Z"
+}
